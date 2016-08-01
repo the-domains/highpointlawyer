@@ -1,0 +1,28 @@
+name: HighPointLawyer
+favicon: null
+layout_spectrum: 0.08260859735310078
+typography_spectrum: 0.28379074949771166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6294758738949895
+  lightness: 0.4370465015526861
+  saturation: 0.04470786056481302
+  rhythmicContrast: 0.9349197680130601
+purpose: []
